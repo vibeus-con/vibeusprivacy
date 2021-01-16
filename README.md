@@ -1,3 +1,5 @@
 # vibusprivacy
+## Vibeus Accests location to find people around you on vibeus
 
-![vibeus](https://user-images.githubusercontent.com/72858063/104348661-fce6c600-5527-11eb-9262-367f9b5435ed.gif)
+
+![Screen_Recording_20210116-184541](https://user-images.githubusercontent.com/72858063/104813163-6d922900-582d-11eb-8843-b12d9e382d10.gif)
