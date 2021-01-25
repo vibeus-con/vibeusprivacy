@@ -1,4 +1,4 @@
-#    Privacy Polic
+#    Privacy Policy
 ```Updated at 10-1-2021```
   
 Vibeus. ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by Vibeus. 
